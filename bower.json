@@ -1,0 +1,23 @@
+{
+  "name": "Whone",
+  "description": "Site Whone",
+  "main": "index.js",
+  "authors": [
+    "Elias Faiçal <eliasfaical@gmail.com> (http://eliasfaical.com.br/)"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "materialize": "^0.98.0",
+    "scrollreveal": "^3.3.2",
+    "ekko-lightbox": "^5.1.1"
+  }
+}
